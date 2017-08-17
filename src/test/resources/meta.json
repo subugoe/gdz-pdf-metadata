@@ -1,0 +1,16 @@
+{
+  "title": ["Zadig"],
+  "creator": ["Voltaire"],
+  "genre": ["Epik  / Epos  / Verserzählung  / Roman  / Erzählung"],
+  "dc": ["vd18.digital"],
+  "place_publish": ["Göttingen", "Huxar"],
+  "year_publish": 1749,
+  "publisher": ["Vandenhoeck", "Schulze"],
+  "work": "PPN0123456789",
+  "log_id": ["LOG_0001", "LOG_0002"],
+  "log_type": ["cover", "title_page"],
+  "log_label": ["Einband", "Titelseite"],
+  "log_start_page_index": [1, 2],
+  "log_end_page_index": [2, 2],
+  "log_level": [1, 1]
+}
